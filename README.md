@@ -38,26 +38,39 @@ Exemple de structure pour le projet:
 Dans un deuxième temps, nous allons créer le teaser du livre. Pour cela, vous allez créer une page `index.html` à la racine du projet.
 
 - Cette page contiendra un teaser cliquable qui redirige vers la première page du livre
-- Le teaser doit contenir une image, le titre du livre et un texte accrocheur
+- Le teaser doit contenir :
+
+  - une image illustrant le livre
+  - le titre du livre
+  - un texte accrocheur qui donne envie de lire le livre
+  - vos prénom et nom
+
 - Le teaser doit être mis en forme avec des Flexbox
+- Le teaser doit avoir un style cohérent avec votre livre (couleurs, typographie, etc.)
 - L'image doit être positionnée à gauche du texte
+- Largeur maximale du teaser : 600 pixels
+- Couleur de fond de la page: `#1a1a1a`
 
-## Critères d'évaluation
+![Exemple de teaser](teaser-exemple.png)
 
-| Critères d'évaluation                        | Points | Coefficient |
-| -------------------------------------------- | ------ | ----------- |
-| **Respect des consignes**                    | 5      | 20%         |
-| - Structure du projet respectée              |        |             |
-| - Liens entre les pages fonctionnels         |        |             |
-| - Nombre de pages suffisant (min 4)          |        |             |
-| **Qualité du code HTML et CSS**              | 5      | 50%         |
-| - Code HTML valide et sans erreurs           |        |             |
-| - Code CSS valide et sans erreurs            |        |             |
-| - Utilisation adaptée de Flexbox pour teaser |        |             |
-| - Application des bonnes pratiques           |        |             |
-| **Qualité de réalisation du teaser**         | 5      | 30%         |
-| - Image cohérente avec le contenu du livre   |        |             |
-| - Mise en forme du teaser                    |        |             |
-| - Originalité du texte accrocheur            |        |             |
-| - Lien fonctionnel vers la première page     |        |             |
-| **Total**                                    | **15** | **100%**    |
+### Critères d'autoévaluation
+
+| Critères d'autoévaluation                      |     | Points |
+| ---------------------------------------------- | --- | ------ |
+| **Respect des consignes**                      |     | 3      |
+| - Structure du projet respectée                | 1   |        |
+| - Projet de livre présent dans le dossier      | 1   |        |
+| - Teaser présentant tous les éléments demandés | 1   |        |
+| **Qualité du code HTML et CSS**                |     | 12     |
+| - Code HTML valide et sans erreurs             | 3   |        |
+| - Code CSS valide et sans erreurs              | 3   |        |
+| - Utilisation adaptée de Flexbox               | 3   |        |
+| - Application des bonnes pratiques CSS & HTML  | 3   |        |
+| **Qualité de réalisation du teaser**           |     | 4      |
+| - Image cohérente avec le contenu du livre     | 1   |        |
+| - Mise en forme du teaser créative             | 1   |        |
+| - Originalité du texte accrocheur              | 1   |        |
+| - Lien fonctionnel vers la première page       | 1   |        |
+| **Total**                                      |     | **19** |
+
+3: Parfait, 2: Bien, 1: Peut mieux faire, 0: Insatisfaisant
